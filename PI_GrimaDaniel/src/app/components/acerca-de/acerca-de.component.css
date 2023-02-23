@@ -14,15 +14,27 @@ div{
         width:  15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey ;
-        left: 5%;
+        left: 2%;
+        top: 470px;
     }
 }
 
+@media (max-width: 575px){
+    #fotodeperfil{
+        position: absolute;
+        width:  20%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey ;
+        left: 3%;
+        top: 600px;
+    }
+}
 
 /*etiqueta nombre*/
 
-#nombre{
+#nombre {
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
     
 }
+
