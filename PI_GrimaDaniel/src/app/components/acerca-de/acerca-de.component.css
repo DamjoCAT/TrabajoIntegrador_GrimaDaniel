@@ -11,11 +11,11 @@ div{
 @media (min-width: 576px){
     #fotodeperfil{
         position: absolute;
-        width:  15%;
+        width:  14.3%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey ;
         left: 2%;
-        top: 470px;
+        top: 483px;
     }
 }
 
@@ -25,8 +25,8 @@ div{
         width:  20%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey ;
-        left: 3%;
-        top: 600px;
+        left: 40%;
+        top: 550px;
     }
 }
 
@@ -34,7 +34,7 @@ div{
 
 #nombre {
     font-weight: bold;
-    margin-top: 10%;
+    margin-top: 30%;
     
 }
 
